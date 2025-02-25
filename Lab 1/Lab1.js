@@ -6,6 +6,7 @@ const UPDATE = "UPDATE_USD_PRICE";
 let fs = require('fs');
 let EventEmitter = require('events');
 
+
 function readJsonFromFile(fileName) {
     // ***YOUR CODE HERE***
   //
